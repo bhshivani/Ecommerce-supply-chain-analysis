@@ -8,8 +8,8 @@ Data Cleaning: Employ data cleaning techniques to handle missing values, outlier
 Analysis and Modeling: Leverage statistical analysis and machine learning algorithms to uncover patterns, trends, and potential areas for optimization within the supply chain.
 Visualization: Create interactive visualizations using libraries such as Matplotlib and Seaborn to communicate key findings and trends effectively.
 #Technologies Used
-Python: Pandas, NumPy, Scikit-learn
-Data Visualization: Matplotlib, Seaborn
+Python: Pandas, NumPy
+Data Visualization: Matplotlib, Seaborn,plotly
 Data Collection: Requests, Pandas
 Database Integration: SQLite, SQLAlchemy
 Jupyter Notebooks: Utilized for exploratory data analysis and documentation.
